@@ -1,0 +1,20 @@
+TEAM
+
+  <first-name> <last-name>
+  <website>
+
+____________________________________
+
+
+TECHNOLOGY
+
+  <technology-name>
+  <technology-url>
+
+____________________________________
+
+
+FONTS
+
+  <font-name>
+  <font-url>
