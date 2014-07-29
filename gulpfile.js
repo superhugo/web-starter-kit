@@ -45,7 +45,7 @@ gulp.task('images', function () {
 // Clean dist folder
 gulp.task('clean', function() {
   return gulp.src('dist', { read: false })
-    .pipe($.clean());
+    .pipe($.rimraf());
 });
 
 // Watch files for changes and reload
